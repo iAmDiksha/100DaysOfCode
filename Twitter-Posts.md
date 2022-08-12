@@ -32,3 +32,15 @@ Day 14: [Learnt CSS transition effect](https://twitter.com/dikshaJain46/status/1
 
 Day 15: [Learnt about CSS transform property](https://twitter.com/dikshaJain46/status/1537820033874661376)
 
+Day 16: [Started learning CSS Grid](https://twitter.com/dikshaJain46/status/1538184327279702018)
+
+Day 17: [Learnt more about CSS grid](https://twitter.com/dikshaJain46/status/1538542381514928129)
+
+Day 18: [Completed a project (Product Landing Page) on freeCodeCamp](https://twitter.com/dikshaJain46/status/1538917612691681280)
+
+Day 19: [Learnt CSS animation and made a basic moving car project](https://twitter.com/dikshaJain46/status/1539216686221365249)
+
+Day 20: [Completed another project (personal portfolio webpage) on freeCodeCamp](https://twitter.com/dikshaJain46/status/1539547157262258176)
+
+
+
