@@ -2,11 +2,15 @@
 
 Here are the links of twitter posts.
 
+### Started learning HTML
+
 Day 1: [Learnt HTML tags, Attributes, headings, links, lists, tables, etc.](https://twitter.com/dikshaJain46/status/1532778698822197248)
 
 Day 2: [Learnt HTML Forms and made this basic HTML login form](https://twitter.com/dikshaJain46/status/1533129111698255872)
 
 Day 3: [Learnt HTML video and audio tags](https://twitter.com/dikshaJain46/status/1533434139344396290)
+
+### Started learning CSS
 
 Day 4: [Started learning CSS](https://twitter.com/dikshaJain46/status/1533821762818826241)
 
@@ -41,6 +45,20 @@ Day 18: [Completed a project (Product Landing Page) on freeCodeCamp](https://twi
 Day 19: [Learnt CSS animation and made a basic moving car project](https://twitter.com/dikshaJain46/status/1539216686221365249)
 
 Day 20: [Completed another project (personal portfolio webpage) on freeCodeCamp](https://twitter.com/dikshaJain46/status/1539547157262258176)
+
+### Started learning JS
+
+Day 21: [Learnt Data types, Variable declaration, Arithmetic operators, String Concatenation, Template Literals, some Math functions, if else statements, logical operators, comparison operators from @Codecademy](https://twitter.com/dikshaJain46/status/1539942733720104960)
+
+Day 22: [Learnt Truthy and falsy values, Ternary operator, else if statement, Switch keyword, Function, Helper function, Function expression, Arrow function in Javascrip](https://twitter.com/dikshaJain46/status/1540325531714875397)
+
+Day 23: [Learnt Scope, Array, some array methods like shift( ), unshift ( ), slice ( ), push( ), pop( ), for loop, nested for loop, while loop, do while loop , break keyword  in Javascript](https://twitter.com/dikshaJain46/status/1540699385553510400)
+
+Day 24: [Learnt High order function, forEach loop, filter( ), findIndex( ), map( )](https://twitter.com/dikshaJain46/status/1541047536185593860)
+
+Day 25: [Completed my first front-end coding challenge from frontendmentor!](https://twitter.com/dikshaJain46/status/1541454079641063425)
+
+
 
 
 
